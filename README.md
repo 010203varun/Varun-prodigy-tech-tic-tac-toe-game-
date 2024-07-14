@@ -1,2 +1,2 @@
 hi
-here is prodigy tech internship task-1 tic tac toe web application.
+here is prodigy tech internship task tic tac toe web application.
